@@ -121,6 +121,7 @@ Usage
 =====
 
 General options
+---------------
 ::
 
     -e  Show evidnece for each call
@@ -141,6 +142,7 @@ Each prediced breakpoint interval has a probability array associated with it.
 The intervals can be trimmed of values that are below some trimming percentile.
 
 Split-read options
+------------------
 ::
 
     -sr 
@@ -174,6 +176,7 @@ Weight of each piece of evidence from this sample.
 Sample id.
 
 Paired-end options
+------------------
 ::
 
     -pe 
@@ -242,6 +245,7 @@ Sample id.
 
 
 BEDPE (general interface) options
+---------------------------------
 ::
 
     -bedpe 
